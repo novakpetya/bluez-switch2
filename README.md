@@ -243,3 +243,7 @@ If this installation replaced files belonging to your Linux distribution, reinst
 ## License
 
 GPL-2.0-or-later.
+
+## Support
+
+This project is provided as-is. It is not actively developed or supported, and bug reports or feature requests are not currently accepted.
